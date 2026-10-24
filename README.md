@@ -1,5 +1,3 @@
-🛒 E-Commerce Analytics: Sales & Profit Insights Dashboard
-
 1. Project Title / Headline
 
 **E-Commerce Analytics: Sales & Profit Insights Dashboard**
@@ -68,7 +66,8 @@ To develop an interactive dashboard that provides a comprehensive overview of e-
 Python Data Cleaning → Feature Engineering → MySQL Database Integration → SQL Analysis → DAX Measures → Power BI Dashboard
 
 6. Screenshot:
+7. https://github.com/thesamakshgupta/Ecommerce-Sales-Analysis/blob/main/Screenshot%202026-10-24%20155442.png
 
-7. 
+   
 
 #PowerBI #Python #MySQL #SQL #DAX #DataAnalytics #BusinessIntelligence #EcommerceAnalytics #DataVisualization #DashboardDevelopment
